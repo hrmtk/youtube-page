@@ -1,13 +1,14 @@
-![Example screenshot](./images/Screen Shot.png)
+![Example screenshot](images/Screen Shot.png)
 
 # YouTube clone
-Embedding Images and Video
-[YouTube Clone](https://hrmtk.github.io/youtube-page/)
+> Embedding Images and Video
+> [YouTube Clone](https://hrmtk.github.io/youtube-page/)
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Status](#status)
+* [Show your support](#support)
 * [Inspiration](#inspiration)
 
 ## General info
@@ -20,7 +21,10 @@ Embedding Images and Video
 * CSS
 
 ## Status
-Project is: _finished
+Project is: _finished_
+
+## Show your support
+Give a star if you like this project.Thanks🌱
 
 ## Inspiration
 [The Odin Project](https://www.theodinproject.com/lessons/embedding-images-and-video)
