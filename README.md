@@ -1,4 +1,4 @@
-![Example screenshot](https://github.com/hrmtk/youtube-page/tree/master/images/Screen Shot.png?raw=true)
+![Example screenshot](https://github.com/hrmtk/youtube-page/blob/master/images/screenshot.png)
 
 # YouTube clone
 > Embedding Images and Video
